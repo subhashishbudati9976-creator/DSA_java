@@ -1,0 +1,7 @@
+#you use ifelse if you want to execute yes or no statements, if yes 1 statement gets executed and if other one is true the other statement gets executed.
+
+#you use while loop if you want a iteration of the statement to get executed. It checks the condition if it is true, the loop gets continued. the point where the condition is false, the loop breaks.
+
+#you use do while, when you want the code execute atleast once. It executes the code atleast once, before checking the condition is true or not.
+
+# you use for loop when you know exactly how many times you want the loop to execute.
